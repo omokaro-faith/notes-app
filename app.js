@@ -1,0 +1,4 @@
+const fs = require('fs'); // Built into node
+
+fs.writeFileSync('note.txt', 'This is my first file system with node');
+fs.appendFileSync('note.txt', ' Can I give it a space');
