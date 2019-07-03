@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/omokaro-faith/notes-app/issues"
   },
-  "homepage": "https://github.com/omokaro-faith/notes-app#readme"
+  "homepage": "https://github.com/omokaro-faith/notes-app#readme",
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "validator": "^11.0.0",
+    "yargs": "^13.2.4"
+  }
 }
