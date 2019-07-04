@@ -75,7 +75,6 @@ const readNotes = (params) => {
 }
 
 module.exports = {
-  getNotes,
   addNotes,
   removeNotes,
   listNotes,
