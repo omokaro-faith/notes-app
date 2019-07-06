@@ -1,7 +1,10 @@
 # NoteIt
 
-NoteIt is a server side note-taking application which you can:
-Add notes, Read notes, List notes and Remove notes.
+NoteIt is a small server side note-taking application which you can:
+- Add notes to
+- Read notes from
+- List all existing notes from
+- Remove notes from.
 Information is added from the command line and saved as JSON in the notes.json file.
 ***
 #### Technology
